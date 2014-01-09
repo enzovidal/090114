@@ -1,0 +1,79 @@
+body {
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#cabecera {
+	float: left;
+	width: 100%;
+}
+
+#izquierda {
+	width: 300px;
+	background-color: #ccc;
+	margin-right: 20px;
+	float: left;
+}
+
+#derecha {
+	width: 600px;
+	background-color: #ccc;
+	float: left;
+}
+
+#contenedor {
+	margin: 0 auto;
+	text-align: left;
+	width: 960px;
+}
+
+#contenido {
+	float: left;
+	padding: 20px;
+	width: 920px;
+}
+
+#logo {
+	float: left;
+	height: 60px;
+	width: 100%;
+}
+
+#menu {
+	background-color: #3498db;
+	float: left;
+	height: 38px;
+	width: 100%;
+}
+
+#pie {
+	border-top: 1px dashed #999;
+	float: left;
+	padding: 15px 0;
+	width: 100%;
+}
+
+#principal {
+	float: left;
+	padding: 10px 0;
+	width: 920px;
+}
+
+.productos {
+	background-color: #ccc;
+	float: left;
+	height: 300px;
+	margin: 0 5px 10px 5px;
+	width: 220px;
+}
+
+#slider {
+	background-color: #ccc;
+	float: left;
+	height: 400px;
+	margin-bottom: 15px;
+	width: 920px;
+}
